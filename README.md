@@ -15,5 +15,5 @@ Vision usada para este proyecto:
 
 -Principal motivo es practica con bootstrap para hacer estar cartas
 -Usar proptypes para cuando no tener problemas en a la hora de renderizar un objeto
-
+- y usar animate.css que es simple para los efectos pero efectivo
 
